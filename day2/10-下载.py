@@ -10,7 +10,7 @@ def download_video(url, save_path):
 
 
 # 示例使用
-video_url = "https://www.kanmaoyy.com/29f13380-cab8-4759-9f44-285735f5bc94"
-save_path = "E:/test/test.mp4"
+video_url = ""
+save_path = "F:/test/test.mp4"
 
 download_video(video_url, save_path)
